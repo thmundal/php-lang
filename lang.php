@@ -1,5 +1,4 @@
 <?php
-
 define("CAP", 0x1);
 define("CAPITALIZE", 0x1);
 
