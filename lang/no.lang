@@ -1,0 +1,17 @@
+{
+	"properties": {
+		"title": "blah"
+	},
+	"words": {
+		"password"	: "passord",
+		"username"	: "brukernavn",
+		"welcome"	: "velkommen"
+	},
+	"phrases": {
+		"log_in"	: "logg inn",
+		"log_out"	: "logg ut"
+	},
+	"text": {
+		"2":"2"
+	}
+}
